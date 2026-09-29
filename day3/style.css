@@ -1,0 +1,25 @@
+.heading
+{
+    padding-left: 45%;
+    color: blue;
+}
+.para
+{
+    padding-left: 45%;
+}
+.form{
+    padding-left: 43%;
+}
+.button
+{
+    padding-left: 65px;
+    padding-right:65px;
+    background-color: blue;
+    font-weight: bold;
+    color: aliceblue;
+}
+.foot
+{
+    padding-left: 41%;
+    
+}
